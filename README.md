@@ -16,3 +16,4 @@ test5tomerge
 test5
 fin de toto
 ajout suite stash
+ajout suite stash#2
